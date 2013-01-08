@@ -7,7 +7,7 @@ VERSION_numpy=1.7.0b2
 DEPS_numpy=(android)
 
 # url of the package
-URL_numpy=http://downloads.sourceforge.net/project/numpy/NumPy/1.7.0b2/numpy-1.7.0b2.tar.gz
+URL_numpy=http://downloads.sourceforge.net/project/numpy/NumPy/$VERSION_numpy/numpy-$VERSION_numpy.tar.gz
 
 # md5 of the package
 MD5_numpy=1b62cf0e34e2db58b0241b00d603df24
